@@ -1,0 +1,3 @@
+Implication Connective  A 則 B
+1. A如果是 false 那 B無論為何 結果都會是 true
+2. B如果是 true 那 A無論為何 結果都會是 true
