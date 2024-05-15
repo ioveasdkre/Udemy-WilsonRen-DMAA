@@ -1,6 +1,6 @@
 # Udemy-WilsonRen-DSAA
 
-資料結構與演算法
+離散數學與演算法
 
 ## Udemy 課程
 
