@@ -1,5 +1,4 @@
-// 等差數
-
+// 等差數數列
 export const initial = () => {
   // const add = (n: number): number => {
   //   let sum = 0;

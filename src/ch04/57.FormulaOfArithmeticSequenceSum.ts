@@ -1,3 +1,4 @@
+// 等差數數列
 export const initial = () => {
   // const add = (n: number): number => {
   //   return ((1 + n) * n) / 2;
