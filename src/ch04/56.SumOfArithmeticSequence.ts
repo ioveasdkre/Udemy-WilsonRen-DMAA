@@ -1,3 +1,5 @@
+// 等差數
+
 export const initial = () => {
   // const add = (n: number): number => {
   //   let sum = 0;
@@ -11,6 +13,7 @@ export const initial = () => {
   // add(10); // 55
   // add(100); // 5050
 
+  // 遞迴
   const add2 = (n: number): number => {
     if (n === 0) return 0;
 
