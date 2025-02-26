@@ -1,3 +1,3 @@
-import { initial } from './ch05/81.CodingLessonIsPrime';
+import { initial } from './ch05/82.CodingLessonNthPrime';
 
 initial();
