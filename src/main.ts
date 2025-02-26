@@ -1,3 +1,3 @@
-import { initial } from './ch04/57.FormulaOfArithmeticSequenceSum';
+import { initial } from './ch05/79.EuclideanCode';
 
 initial();
